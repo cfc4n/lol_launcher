@@ -1,0 +1,96 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;lol_launcher&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/gopath/src/.DS_Store" />
+      <root url="file://$USER_HOME$/gopath/src/git.apache.org" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in" />
+      <root url="file://$USER_HOME$/gopath/src/code.google.com" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org" />
+      <root url="file://$USER_HOME$/gopath/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/gopath/src/github.com/coreos/etcd/integration/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/revel/revel/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/siddontang/ledisdb/.git" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/vmihailenco/msgpack.v2/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/pointer/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/mgo.v2/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/ssa/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/ugorji/go/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/astaxie/beego/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/artyom/fb303/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/beego/x2j/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/couchbase/gomemcached/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/op/go-logging/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/gorilla/websocket/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/crypto/ssh/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/cmd/stringer/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/text/encoding/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/callgraph/cha/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/coreos/etcd/Godeps/_workspace" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/virushuo/Go-Apns/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/callgraph/rta/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/boj/goenet/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/couchbaselabs/go-couchbase/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/oracle/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/siddontang/ledisdb/Godeps/_workspace" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/ssa/interp/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/gcimporter/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/cmd/callgraph/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/beego/goyaml2/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/collinglass/mw/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/siddontang/go/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/gccgoimporter/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/cmd/fiximports/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/pborman/getopt/.git" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/bufio.v1/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/ssa/ssautil/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/bitly/go-simplejson/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/net/http2/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/revel/cmd/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/robfig/config/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/wendal/errors/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/robfig/config/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/artyom/thrift/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/agtorre/gocolorize/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/lib/pq/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/revel/modules/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/refactor/eg/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/robfig/pathtree/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/types/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/belogik/goes/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/cmd/vet/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/net/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/couchbase/go-couchbase/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/revel/revel/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/BurntSushi/toml/_examples" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/redis.v3/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/gorilla/mux/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/nsf/gocode/_gccgo" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/nsf/gocode/_goremote" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/redis.v3/.test" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/cmd/cover/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/net/html/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/nsf/gocode/_testing" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/gorilla/context/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/bradfitz/gomemcache/.git" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/bsm/ratelimit.v1/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/coreos/etcd/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/BurntSushi/toml/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/gopkg.in/fsnotify.v1/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/nsf/gocode/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/tealeg/xlsx/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/tools/go/loader/testdata" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/garyburd/redigo/.git" />
+      <root url="file://$USER_HOME$/gopath/src/golang.org/x/crypto/.git" />
+    </excluded>
+  </library>
+</component>
